@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- Sejam bem-vindos ao Jogo da Forca!
+## Sejam bem-vindos ao Jogo da Forca!
 </p>
 
 
