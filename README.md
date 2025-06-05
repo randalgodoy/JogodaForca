@@ -2,5 +2,6 @@
   <img src="https://github.com/randalgodoy/JogodaForca/blob/main/jogo-da-forca.png" />
 </p>
 
-# Jogo da Força em Java Swing
-
+<p align="center">
+# Jogo da Forca em Java Swing
+</p>
