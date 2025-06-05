@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-# Jogo da Forca em Java Swing
+ Jogo da Forca em Java Swing
 </p>
