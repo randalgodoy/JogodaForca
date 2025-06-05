@@ -1,0 +1,15 @@
+FACIL;gato;Animal doméstico que mia
+FACIL;sol;Estrela que ilumina o dia
+FACIL;bola;Objeto redondo usado em esportes
+FACIL;rio;Curso de água natural
+FACIL;pao;Alimento feito de farinha e fermento
+MEDIO;cachorro;Melhor amigo do homem
+MEDIO;janela;Permite a entrada de luz em casa
+MEDIO;cadeira;Usada para sentar
+MEDIO;escola;Lugar para aprender
+MEDIO;viagem;Ato de ir para outro lugar
+DIFICIL;girassol;Planta que segue o sol
+DIFICIL;biblioteca;Lugar cheio de livros
+DIFICIL;paralelepipedo;Pedra usada para pavimentar ruas
+DIFICIL;orquestra;Grupo que toca música clássica
+DIFICIL;astronomia;Ciência que estuda o universo
