@@ -61,16 +61,27 @@ O Objetivo é tentar adivinhar palavras ocultas para que evitar o enforcamento d
 Este projeto foi desenvolvido em grupo como parte de um trabalho acadêmico:
 
 -Caio Rafael da Encarnação Freitas - RA 12724239863
+
 -Felipe Barbosa da Silva - RA 824226505
+
 -Israel Ruan Malta Rosas - RA 12724215274
+
 -Leonardo Rodrigo Arouca - RA 12725172861
+
 -Luan Alves - RA 824219029
+
 -Lucas Fernando silva De Oliveira -RA825115120
+
 -Mateus Cavalcante Oliveira - RA 13525121079
+
 -Murilo Serra Lira RA 825152502
+
 -Rafael de Figueiredo Mattos Almeida - RA 12724227451
+
 -Randal Godoy Fernandes -  RA 12625117571
+
 -Samuel Kaone Rodrigues Argolo - RA 722423006
+
 
 
 
