@@ -57,6 +57,20 @@ O Objetivo é tentar adivinhar palavras ocultas para que evitar o enforcamento d
 - Layouts: `BorderLayout`, `FlowLayout`, `GridLayout`
 - Princípios de POO: herança, polimorfismo, encapsulamento
 
+ ## 🗂 Histórico de progresso
+
+As vitórias são salvas automaticamente no arquivo:
+
+```
+historico_progresso_forca.txt
+```
+
+Cada linha contém a data/hora, dificuldade e a palavra adivinhada.
+
+## 📚 Aprendizado
+
+Este projeto foi desenvolvido em grupo como parte de um trabalho acadêmico com foco em organizar código usando **classes**, **interfaces gráficas**, **herança** e **polimorfismo** e boas práticas de programação.
+
 ## 👥 Autores
 Este projeto foi desenvolvido em grupo como parte de um trabalho acadêmico:
 
