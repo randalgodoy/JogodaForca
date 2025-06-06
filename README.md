@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-## Sejam bem-vindos ao Jogo da Forca!
+Sejam bem-vindos ao Jogo da Forca!
 </p>
 
 Este jogo é um clássico de toda geração. Embora não tenha registros documentados sobre sua origem, acredita-se que sua primeira versão tenha aparecido em 1894, no livro The Traditional Games of England, Scotland, and Ireland. Nessa edição, mencionavaum jogo denominado Birds, Beasts, and Fishes, no qual os jogadores adivinhavam palavras relacionadas a animais.
