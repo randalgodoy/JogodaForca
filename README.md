@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/randalgodoy/JogodaForca/blob/main/jogo-da-forca.png" />
+  <img src="https://github.com/randalgodoy/JogodaForca/blob/main/jogo-da-forca.jpeg" />
 </p>
 
 <p align="center">
