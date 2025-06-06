@@ -12,7 +12,7 @@ Bem-vindo ao Jogo da Forca em Java Swing. Este jogo é composto por grau de difi
 
 ## ❓Objetivo do Jogo:
 
-O Objetivo é tentar adivinhar palavras ocultas para que evitar o enforcamento do boneco.
+O Objetivo é tentar adivinhar palavras ocultas para evitar o enforcamento do boneco.
 
 ## 🧠 Especificações
 -  Interface gráfica utilizando Swing e layouts(BorderLayout, FlowLayout, GridLayout)
