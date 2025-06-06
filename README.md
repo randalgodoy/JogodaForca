@@ -12,7 +12,8 @@ Ao longo dos anos, o jogo foi se desenvolvendo, criando várias temáticas de pa
 
 ## Objetivo do Jogo:
 
-## Funcionalidades
+## Especificações
+-  Grau de dificuldade do jogo é composto por três niveis: Fácil, Médio e Dificil. 
 
 ## Como Jogar
 
@@ -25,3 +26,5 @@ Ao longo dos anos, o jogo foi se desenvolvendo, criando várias temáticas de pa
 
 
 ## Autor
+Desenvolvido por seguintes alunos:
+
