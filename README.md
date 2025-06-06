@@ -2,7 +2,7 @@
   <img src="https://github.com/randalgodoy/JogodaForca/blob/main/jogo-da-forca.jpeg" />
 </p>
 
-## História
+## 📜 História
 Este jogo é um clássico de toda geração. Embora não tenha registros documentados sobre sua origem, acredita-se que sua primeira versão tenha aparecido em 1894, no livro The Traditional Games of England, Scotland, and Ireland. Nessa edição, mencionavaum jogo denominado Birds, Beasts, and Fishes, no qual os jogadores adivinhavam palavras relacionadas a animais.
 Ao longo dos anos, o jogo foi se desenvolvendo, criando várias temáticas de palavras e, além disso, tornou-se uma excelente ferramenta educativa utilizada por professores, com a função de melhorar a ortografia e a gramática dos seus alunos.
 
@@ -10,7 +10,7 @@ Ao longo dos anos, o jogo foi se desenvolvendo, criando várias temáticas de pa
 
 Bem-vindo ao Jogo da Forca em Java Swing. Este jogo é composto por grau de dificuldade,uma imagem representada por um boneco e um  histórico de vitórias salvar em arquivo txt. Além disso, foi desenvolvido como projeto de aprendizado em Programação Orientada a Objetos.
 
-## Objetivo do Jogo:
+## ❓Objetivo do Jogo:
 
 O Objetivo é tentar adivinhar palavras ocultas para que evitar o enforcamento do boneco.
 
@@ -43,7 +43,7 @@ O Objetivo é tentar adivinhar palavras ocultas para que evitar o enforcamento d
    java ForcaJogo
    ```
 
-## Estrutura do Código  
+## 🏗️Estrutura do Código  
 
 - `ForcaJogo.java`: classe principal com toda a lógica do jogo e interface
 - `Palavra`: classe base com `texto` e `dica`
@@ -57,7 +57,7 @@ O Objetivo é tentar adivinhar palavras ocultas para que evitar o enforcamento d
 - Layouts: `BorderLayout`, `FlowLayout`, `GridLayout`
 - Princípios de POO: herança, polimorfismo, encapsulamento
 
-## 👥 Autor
+## 👥 Autores
 Este projeto foi desenvolvido em grupo como parte de um trabalho acadêmico:
 
 -Caio Rafael da Encarnação Freitas - RA 12724239863
